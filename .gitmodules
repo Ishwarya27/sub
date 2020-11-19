@@ -1,3 +1,6 @@
 [submodule "jk"]
 	path = jk
 	url = https://github.com/Ishwarya27/jk
+[submodule "dog"]
+	path = dog
+	url = https://github.com/Ishwarya27/dog
