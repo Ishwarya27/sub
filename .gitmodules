@@ -4,3 +4,6 @@
 [submodule "dog"]
 	path = dog
 	url = https://github.com/Ishwarya27/dog
+[submodule "lion"]
+	path = lion
+	url = https://github.com/Ishwarya27/lion
