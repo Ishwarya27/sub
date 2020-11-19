@@ -7,3 +7,6 @@
 [submodule "lion"]
 	path = lion
 	url = https://github.com/Ishwarya27/lion
+[submodule "bird"]
+	path = bird
+	url = https://github.com/Ishwarya27/bird
